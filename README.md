@@ -10,3 +10,6 @@ Klipper config for Voron V2.4 350mm^3 printer with the following components inst
 - Moons steppers
     - X/Y: Moons MS17HA6P4200-06
     - Z:   Moons MS17HD6P4200-29
+
+
+Note: swapped Moons X/Y MS17HA6P4200-06 steppers with BOM recommended LDO's. With Moons could achieve 350mm/s travel at 10k accel, but with the LDO's could achieve 800mm/s travel at 10k accel.
