@@ -22,3 +22,4 @@ get-docker.sh
 rpi-fbcp
 xf86-video-fbturbo
 .vscode-server
+.history
